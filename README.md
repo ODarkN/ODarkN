@@ -1,4 +1,4 @@
-<img src="https://art.pixilart.com/sr5zceb5eb335caws3.png" alt="Logo" width="250"> <img src="https://art.pixilart.com/sr5z803cab86b3aws3.png" alt="Logo" width="250"> <img src="https://art.pixilart.com/sr5z55f405e1eaaws3.png" alt="Logo" width="250">
+<img src="https://art.pixilart.com/sr5za25b0aed56aws3.png" alt="Logo" width="270"> <img src="https://art.pixilart.com/sr5zf9c6a75232aws3.png" alt="Logo" width="270"> <img src="https://art.pixilart.com/sr5z8ee26273a6aws3.png" alt="Logo" width="270">
 
 
 # ODarkN Profile README
