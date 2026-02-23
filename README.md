@@ -1,6 +1,3 @@
-<img src="https://art.pixilart.com/sr5za25b0aed56aws3.png" alt="Logo" width="270"> <img src="https://art.pixilart.com/sr5zf9c6a75232aws3.png" alt="Logo" width="270"> <img src="https://art.pixilart.com/sr5z8ee26273a6aws3.png" alt="Logo" width="270">
-
-
 # ODarkN Profile README
 
 **Main Profile Description:**  
@@ -20,10 +17,13 @@ I’m an aspiring creator with big dreams, just starting my journey, but always 
 **[InkPulse Engine](https://github.com/ODarkN/InkPulse)**  
 **Description:** *A Visual Novel engine built in C# and WPF, designed to streamline story driven game development. At this stage, the focus is on the engine core, UI tools, and scripting system.*  
 
-[CSharpBasics Educational repository](https://github.com/ODarkN/CSharpBasics)  
-**Description:** *Simple C# programs created for educational purposes.*
+**Rimworld Realism Temperature Framework**  
+**Description:** *A physics driven thermodynamics framework for RimWorld*
 
-**Unity Prototypes**  
+**Relay Powered Linktree**  
+**Description:** *Personal landing page with integrated cross chain payments, using the Relay protocol. Built with HTML, CSS, and JavaScript.*
+
+**Unity Prototypes**    
 **Description:** *Small experimental projects exploring gameplay mechanics, simulations, and tools for learning.*
 
 ## Pixels & Coffee 
